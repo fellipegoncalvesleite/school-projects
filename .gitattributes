@@ -1,0 +1,7 @@
+# Flutter platform scaffolding — exclude from GitHub language statistics
+flutter/*/android/** linguist-vendored
+flutter/*/ios/** linguist-vendored
+flutter/*/linux/** linguist-vendored
+flutter/*/macos/** linguist-vendored
+flutter/*/windows/** linguist-vendored
+flutter/*/web/** linguist-vendored
