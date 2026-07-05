@@ -1,6 +1,6 @@
 # School Projects
 
-Coursework, organized by technology.
+Coursework, organized by technology and subject.
 
 ## Flutter
 
@@ -26,3 +26,8 @@ flutter run
 
 - [`python`](python) — class activities from the Special Topics in IT course
   (numpy, matplotlib), managed with uv.
+
+## Computer Networks
+
+- [`computer-networks`](computer-networks) — TCP comparative study (report) plus a
+  WebSocket poker demo.
